@@ -1,4 +1,4 @@
-# Personal_portfolio
+# Personal_Portfolio
 Welcome to my creative corner of the web! I'm PALAK GARG, a passionate designer and developer ready to take you on a visual journey. As you explore my portfolio, you'll discover not only the magic I create but also a glimpse into my personality.
 <br>
 
